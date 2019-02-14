@@ -1,1 +1,1 @@
-module github.com/libp2p/qtls-deprecated
+module github.com/anacrolix/qtls-deprecated
